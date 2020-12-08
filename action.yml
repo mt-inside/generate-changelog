@@ -1,12 +1,12 @@
 name: Generate a changelog
 description: Wraps lerna-changelog to generate a changelog between two commits or tags
-author: 'Daniel McKenzie'
+author: 'Matt Turner'
 
 inputs:
-  from:
-    description: Old SHA
-  to:
-    description: New SHA
+  old:
+    description: Old ref
+  new:
+    description: New ref
 
 outputs:
   changelog:
@@ -18,4 +18,4 @@ runs:
 
 branding:
   icon: file-text
-  color: orange
+  color: green

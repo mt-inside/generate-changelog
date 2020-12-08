@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riskledger/generate-changelog.git"
+    "url": "git+https://github.com/mt-inside/generate-changelog.git"
   },
   "keywords": [
     "github",
@@ -16,9 +16,9 @@
   ],
   "author": "Daniel McKenzie",
   "bugs": {
-    "url": "https://github.com/riskledger/generate-changelog/issues"
+    "url": "https://github.com/mt-inside/generate-changelog/issues"
   },
-  "homepage": "https://github.com/riskledger/generate-changelog#readme",
+  "homepage": "https://github.com/mt-inside/generate-changelog#readme",
   "scripts": {
     "lint": "./node_modules/eslint/bin/eslint.js --ext .js",
     "lint:fix": "yarn run lint --fix",

@@ -9,6 +9,6 @@ updates:
     timezone: Europe/London
   open-pull-requests-limit: 10
   reviewers:
-  - McKenzieJDan
+  - mt-inside
   assignees:
-  - McKenzieJDan
+  - mt-inside
